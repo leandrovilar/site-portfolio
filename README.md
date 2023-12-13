@@ -2,10 +2,11 @@
 
 [Bem vindo](#bem-vindo-ao-curso-de-git-e-github) |
 [Modulos](#modulos) |
-[Redes sociais]()
-
+[Redes sociais](#redes-socias) |
+[Modelos de scripts](#exemplo-de-uso-do-script)
 
 # Bem vindo ao curso de Git e GitHub
+
 Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissional_
 
 **Ultimas atualizações**
@@ -24,8 +25,13 @@ Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissiona
 2. Aprendendo sobre repositórios.
 3. Trabalhando com branches
 
+[topo](#bem-vindo-ao-curso-de-git-e-github)
+
 ### Redes socias:
+
 [Instagram](http://www.instagram.com)
+
+[topo](#bem-vindo-ao-curso-de-git-e-github)
 
 ### Exemplo de uso do script:
 ```js
@@ -50,6 +56,7 @@ function showName(nome){
     color: #ff0000
 }
 ```
+
 Propriedade | descrição
 ----------- | ---------
 Nome | Para informar o nome do usuáio
