@@ -24,7 +24,7 @@ Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissiona
 2. Aprendendo sobre repositórios.
 3. Trabalhando com branches
 
-### Redes social:
+### Redes socias:
 [Instagram](http://www.instagram.com)
 
 ### Exemplo de uso do script:
