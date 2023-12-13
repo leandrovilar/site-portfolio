@@ -45,4 +45,8 @@ function showName(nome){
     color: #ff0000
 }
 ```
-
+Propriedade | descrição
+----------- | ---------
+Nome | Para informar o nome do usuáio
+Size | Para definir o tamanho do campo
+onPress | Função chamada quando clicar no botão
