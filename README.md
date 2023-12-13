@@ -1,5 +1,8 @@
 ![Logo do git](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
+[Bem vindo]()
+
+
 # Bem vindo ao curso de Git e GitHub
 Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissional_
 
@@ -22,7 +25,7 @@ Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissiona
 ### Redeo social:
 [Instagram](http://www.instagram.com)
 
-**Exemplo de uso do script:**
+### Exemplo de uso do script:
 ```js
 function showName(nome){
     return 'Bem vindo: ' + nome;
