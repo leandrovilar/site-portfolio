@@ -3,6 +3,12 @@
 # Bem vindo ao curso de Git e GitHub
 Nesse curso você vai dominiar todo **git** e **github** do _zero ao profissional_
 
+**Ultimas atualizações**
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
+
 ## Modulos:
 
 * Entendendo o que é git. 
